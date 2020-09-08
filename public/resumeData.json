@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Sai Ajay Vutukuri",
+    "occupation": "Angular Developer @Tata Consultancy Services",
+    "description": "Full Stack Angular Developer by Day",
+    "image": "Ajay.jpg",
+    "bio": "My name is Ajay, I'm a Full Stack Angular Developer. Currently I'm working at Tata Consultancy Services ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vutukuriajay@gmail.com",
+    "phone": "+91 8951563552",
+    "address": {
+      "street": "Ft No:2F5, Seetha rama lakshmi towers",
+      "city": "Amalapuram",
+      "state": "India",
+      "zip": "533201"
+    },
+    "website": "https://saiajayportfolio.web.app",
+    "resumedownload": "ResumeUpdated.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vutukuri.saiajay/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/ajay-vutukuri-38824ba8",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ajayvutukuri/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vutukuriajay2241",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Passionate developer practicing full stack skills from 2.5+ years on various technologies across domains. Design thinker, wants to share and gain experience by exchanging",
+    "education": [
+      {
+        "school": "Amrita School of Engineering",
+        "degree": "B.tech in Electronics & Communication enginerring",
+        "graduated": "May 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Full stack devloper",
+        "years": "June 2018 - Present",
+        "description": "Developing Web and Mobile applications for clients"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      }, {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflixclone-d51f3.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very good at Team work and helping accociates when they are troubling at debugging the code",
+        "user": "Dharmesh Vyas"
+      }
+    ]
+  }
+}
