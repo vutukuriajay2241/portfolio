@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Sai Ajay Vutukuri",
-    "occupation": "Angular Developer @Tata Consultancy Services",
-    "description": "Full Stack Angular Developer by Day",
+    "occupation": "Software Developer Engineer @CNS",
+    "description": "Student at Indiana University in Data Science",
     "image": "Ajay.jpg",
-    "bio": "My name is Ajay, I'm a Full Stack Angular Developer. Currently I'm working at Tata Consultancy Services ",
+    "bio": "My name is Ajay, I'm a Full Stack Angular Developer. Currently I'm working at Cyberinfrastructure for Network Science Center ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vutukuriajay@gmail.com",
-    "phone": "+91 8951563552",
+    "phone": "+18126713887",
     "address": {
-      "street": "Ft No:2F5, Seetha rama lakshmi towers",
-      "city": "Amalapuram",
-      "state": "India",
-      "zip": "533201"
+      "street": "754 Woodbridge drive",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "zip": "47408"
     },
     "website": "https://saiajayportfolio.web.app",
     "resumedownload": "ResumeUpdated.pdf",
@@ -43,6 +43,12 @@
     "skillmessage": "Passionate developer practicing full stack skills from 2.5+ years on various technologies across domains. Design thinker, wants to share and gain experience by exchanging",
     "education": [
       {
+        "school": "Indiana University Bloomington",
+        "degree": "Master of Science in Data Science",
+        "graduating year": "May 2022",
+        "Relevant Courses": "Machine Learning in Signal processing, Inro to Statistics, Applied Algorithms"
+      },
+      {
         "school": "Amrita School of Engineering",
         "degree": "B.tech in Electronics & Communication enginerring",
         "graduated": "May 2018",
@@ -51,16 +57,34 @@
     ],
     "work": [
       {
+        "company": "Cyberinfrastructure for Network Science Center",
+        "title": "Full stack developer",
+        "years": "Feb 2021 - Present",
+        "description": "Developing Full stack application for clients"
+      },
+      {
         "company": "Tata Consultancy Services",
-        "title": "Full stack devloper",
-        "years": "June 2018 - Present",
-        "description": "Developing Web and Mobile applications for clients"
+        "title": "Full stack developer",
+        "years": "June 2018 - Jan 2021",
+        "description": "Developed Web and Mobile applications for clients"
       }
     ],
     "skills": [
       {
         "name": "Angular",
         "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
       },
       {
         "name": "ReactJs",
