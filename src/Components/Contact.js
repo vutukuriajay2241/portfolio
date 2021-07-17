@@ -6,12 +6,13 @@ const Contact = ({ data }) => {
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
+   const myMailId = 'vutukuriajay@gmail.com'
 
    console.log(data)
 
     const handleClick = (e) => {
        e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+      window.open(`mailto:${myMailId}?subject=${subject}&body=${name}: ${message} \ Contact Email: ${email}`);
     }
     
 
@@ -28,9 +29,7 @@ const Contact = ({ data }) => {
 
             <div className="ten columns">
 
-                  <p className="lead" style={{paddingTop: 15,
-    color: "red"}}>{data?.message}Warning: Contact form not yet configured, please contact me via normal email for now</p>
-
+                  
             </div>
 
          </div>
